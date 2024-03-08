@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.63fe01c0.css",
+    "main.js": "/static/js/main.40532440.js",
+    "static/media/image.png": "/static/media/image.fd39d8995aca2dd01072.png",
+    "static/media/backend.jpg": "/static/media/backend.e615b414a0ea16e9dcb0.jpg",
+    "static/media/facebook.png": "/static/media/facebook.81dd033a37c4860f7121.png",
+    "static/media/adobe.png": "/static/media/adobe.a08b8360ff7b700ed0c4.png",
+    "static/media/walmart.png": "/static/media/walmart.1d2b5e5c5c5a8e2bd5ce.png",
+    "static/media/fullstack.jpg": "/static/media/fullstack.f9b2d6a18cee720f8c9d.jpg",
+    "static/media/monisha (1).png": "/static/media/monisha (1).5f3acd9252306fd91c26.png",
+    "static/media/react.svg": "/static/media/react.8e63d418a6421cc2662e234ac8af7313.svg",
+    "static/media/nodedotjs.svg": "/static/media/nodedotjs.6d0ce605479079334bce77dc7c3be9ab.svg",
+    "static/media/javascript.svg": "/static/media/javascript.5ee3c82fade3a5a9c98dc18702a4f717.svg",
+    "index.html": "/index.html",
+    "static/media/express.svg": "/static/media/express.8427b1f17000eb9ee0790216d726b635.svg",
+    "static/media/git.svg": "/static/media/git.8ecdc3c556e1278611a7cfbb49c857a2.svg",
+    "static/media/mongodb.svg": "/static/media/mongodb.d930c2c4198d1000c2fb8b7d3177a44c.svg",
+    "main.63fe01c0.css.map": "/static/css/main.63fe01c0.css.map",
+    "main.40532440.js.map": "/static/js/main.40532440.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.63fe01c0.css",
+    "static/js/main.40532440.js"
+  ]
+}
